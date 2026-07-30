@@ -1,0 +1,21 @@
+
+
+
+
+GIT
+ONLY 2 OPERATIONS
+ -GIT PUSH (upload)
+ -GIT PULL (Download)
+
+ GIT PROCESS
+  -Connecting local repo with online repo
+  - git initiailize `git init`
+  - `git remote add origin <https url>
+### Clone the repo if it already exist download to local machine
+  - `git clone <url>`
+
+### git commit
+  - GIt adding track of changes
+    -`git add .`
+  - GIt commint the tracked changes
+    -`git commit -m "your message for the commit"`
