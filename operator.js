@@ -108,6 +108,15 @@ let [first, ...remaining] = [10,20,30,40];
 let {brand, ...specs} = {brand:'Dell', ram:'16GB',storage:'512GB'}
 //brand='Dell', specs ={ram:'16GB',storage:'512GB'}
 
+let product = {
+	prodName: "iphone 12",
+	price:12000,
+	discount:10,
+	brand:"Apple",
+	category:"smart phone",
+	color:["red","blue"]
+}
+product1=JSON.parse(JSON.stringify(product)) //Deep COpy even the array inside the object.
 
 //typecasting
 let str='10'
