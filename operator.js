@@ -117,10 +117,10 @@ let product = {
 	color:["red","blue"]
 }
 product1=JSON.parse(JSON.stringify(product)) //Deep COpy even the array inside the object.
-
+product2=structuredClone(product) //deep clone
 //typecasting
 let str='10'
-//to make number
+//to make numberJS supports 
 let abcd=+str
 
 //sir le padako wala

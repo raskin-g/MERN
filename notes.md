@@ -43,4 +43,7 @@ ONLY 2 OPERATIONS
     -`git checkout -b <BranchName>`
   -To go to any branch
     -`git checkout <BranchName>
-    
+
+## ES
+ - BEFORE 2015 (CommonJs)
+ - After 2015 (ModuleJs)    
