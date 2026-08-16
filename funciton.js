@@ -41,6 +41,16 @@ console.log(addNumbers2(10,10))
  * callback
  * async (VVVI)
  */
+//object vitra function
+const user={
+    getuserInfo(){},
+    getUserDetail: ()=>{
+        //limited not to use this inside the function
+    }
+}
+
+
+
 
 // OOP based Programming
 
