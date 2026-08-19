@@ -47,3 +47,8 @@ ONLY 2 OPERATIONS
 ## ES
  - BEFORE 2015 (CommonJs)
  - After 2015 (ModuleJs)    
+
+- you can use graphql if there is tree data in the backend.
+
+
+-js ko ho DOM not html treating the document as Object
